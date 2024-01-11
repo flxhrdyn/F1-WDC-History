@@ -49,11 +49,9 @@ function App() {
       
     <div className="App">
       <div className='f1-app'>
-      {/* <img src='./images/Race.jpg' alt=''/> */}
-      {Race}
+      <img src={Race} alt=''/>
         <div className='container'>
-          {/* <img src='./images/F1.png' alt=''/> */}
-          {F1}
+          <img src={F1} alt=''/>
           <h1>Formula 1 World Champion History</h1>
           <p>By Felix Windriyareksa Hardyan</p>
 
