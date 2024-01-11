@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/f1-wdc-history/static/css/main.84189ba9.css",
+    "main.css": "/f1-wdc-history/static/css/main.f02f7d3c.css",
     "main.js": "/f1-wdc-history/static/js/main.6b223f7e.js",
     "static/js/787.c6d311af.chunk.js": "/f1-wdc-history/static/js/787.c6d311af.chunk.js",
     "static/media/Race.jpg": "/f1-wdc-history/static/media/Race.0b90de056a825b7d53a6.jpg",
     "static/media/F1.png": "/f1-wdc-history/static/media/F1.645b1d313f9fdf008441.png",
     "index.html": "/f1-wdc-history/index.html",
-    "main.84189ba9.css.map": "/f1-wdc-history/static/css/main.84189ba9.css.map",
+    "main.f02f7d3c.css.map": "/f1-wdc-history/static/css/main.f02f7d3c.css.map",
     "main.6b223f7e.js.map": "/f1-wdc-history/static/js/main.6b223f7e.js.map",
     "787.c6d311af.chunk.js.map": "/f1-wdc-history/static/js/787.c6d311af.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84189ba9.css",
+    "static/css/main.f02f7d3c.css",
     "static/js/main.6b223f7e.js"
   ]
 }
