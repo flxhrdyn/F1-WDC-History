@@ -2,6 +2,8 @@ import { useState, useEffect } from 'react';
 import './App.css';
 import axios from 'axios';
 import Search from './components/Search';
+import F1 from './images/F1.png'
+import Race from './images/Race.jpg';
 
 function App() {
 
@@ -47,9 +49,11 @@ function App() {
       
     <div className="App">
       <div className='f1-app'>
-      <img src='/images/Race.jpg' alt=''/>
+      {/* <img src='./images/Race.jpg' alt=''/> */}
+      {Race}
         <div className='container'>
-          <img src='images/F1.png' alt=''/>
+          {/* <img src='./images/F1.png' alt=''/> */}
+          {F1}
           <h1>Formula 1 World Champion History</h1>
           <p>By Felix Windriyareksa Hardyan</p>
 
