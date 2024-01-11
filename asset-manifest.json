@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flxhrdyn.github.io/f1-wdc-history/static/css/main.95835376.css",
+    "main.js": "/flxhrdyn.github.io/f1-wdc-history/static/js/main.af0c55ae.js",
+    "static/js/787.c6d311af.chunk.js": "/flxhrdyn.github.io/f1-wdc-history/static/js/787.c6d311af.chunk.js",
+    "index.html": "/flxhrdyn.github.io/f1-wdc-history/index.html",
+    "main.95835376.css.map": "/flxhrdyn.github.io/f1-wdc-history/static/css/main.95835376.css.map",
+    "main.af0c55ae.js.map": "/flxhrdyn.github.io/f1-wdc-history/static/js/main.af0c55ae.js.map",
+    "787.c6d311af.chunk.js.map": "/flxhrdyn.github.io/f1-wdc-history/static/js/787.c6d311af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95835376.css",
+    "static/js/main.af0c55ae.js"
+  ]
+}
