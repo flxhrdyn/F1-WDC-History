@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/flxhrdyn.github.io/f1-wdc-history/static/css/main.95835376.css",
-    "main.js": "/flxhrdyn.github.io/f1-wdc-history/static/js/main.af0c55ae.js",
-    "static/js/787.c6d311af.chunk.js": "/flxhrdyn.github.io/f1-wdc-history/static/js/787.c6d311af.chunk.js",
-    "index.html": "/flxhrdyn.github.io/f1-wdc-history/index.html",
-    "main.95835376.css.map": "/flxhrdyn.github.io/f1-wdc-history/static/css/main.95835376.css.map",
-    "main.af0c55ae.js.map": "/flxhrdyn.github.io/f1-wdc-history/static/js/main.af0c55ae.js.map",
-    "787.c6d311af.chunk.js.map": "/flxhrdyn.github.io/f1-wdc-history/static/js/787.c6d311af.chunk.js.map"
+    "main.css": "/f1-wdc-history/static/css/main.0d957d32.css",
+    "main.js": "/f1-wdc-history/static/js/main.bfd0d76e.js",
+    "static/js/787.c6d311af.chunk.js": "/f1-wdc-history/static/js/787.c6d311af.chunk.js",
+    "static/media/Race.jpg": "/f1-wdc-history/static/media/Race.0b90de056a825b7d53a6.jpg",
+    "static/media/F1.png": "/f1-wdc-history/static/media/F1.645b1d313f9fdf008441.png",
+    "index.html": "/f1-wdc-history/index.html",
+    "main.0d957d32.css.map": "/f1-wdc-history/static/css/main.0d957d32.css.map",
+    "main.bfd0d76e.js.map": "/f1-wdc-history/static/js/main.bfd0d76e.js.map",
+    "787.c6d311af.chunk.js.map": "/f1-wdc-history/static/js/787.c6d311af.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.95835376.css",
-    "static/js/main.af0c55ae.js"
+    "static/css/main.0d957d32.css",
+    "static/js/main.bfd0d76e.js"
   ]
 }
