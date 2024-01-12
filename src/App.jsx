@@ -52,7 +52,7 @@ function App() {
       <img src={Race} alt=''/>
         <div className='container'>
           <img src={F1} alt=''/>
-          <h1>Formula 1 World Champion History</h1>
+          <h1>History of Formula 1 World Champions</h1>
           <p>By Felix Windriyareksa Hardyan</p>
 
           {/* Search component */}
